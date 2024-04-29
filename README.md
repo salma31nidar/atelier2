@@ -1,4 +1,4 @@
-# atelier2
+# ATELIER 2 
 ## This repository contains code for two distinct parts:
 
 ### Part 1: Text Processing and Bill Generation
