@@ -1,7 +1,7 @@
 ## atelier2
 # This repository contains code for two distinct parts:
 
-# Part 1: Text Processing and Bill Generation
+### Part 1: Text Processing and Bill Generation
 In this part, a Python script is provided to generate a bill from a given text input provided by the user. The script utilizes regular expressions (Regex) to extract relevant information such as product names, quantities, and prices from the text. It then formats this information into a structured bill table. Here's a summary of the key functionalities:
 
 Clean Text Function: Removes stop words and extra whitespaces from input text.
